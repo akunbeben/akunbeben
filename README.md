@@ -1,7 +1,7 @@
 # Benny Rahmat &mdash; @akunbeben
 
 <p align="center">
-  <img align="center" src="https://www.itl.cat/pngfile/big/101-1015533_fall-mountains-pixel-art-need-iphone-s-pixel.png" />
+  <img align="center" src="https://raw.githubusercontent.com/akunbeben/akunbeben/main/assets/git_pixelated.png" />
 </p>
 
 #### Hei Folks! 👋
