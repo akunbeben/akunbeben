@@ -26,6 +26,11 @@
   #### ⚡ Benny's github last activity
 
   <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/borneo-digital-creative/statico/pull/5) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
+2. 💪 Opened PR [#5](https://github.com/borneo-digital-creative/statico/pull/5) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
+3. 🎉 Merged PR [#4](https://github.com/borneo-digital-creative/statico/pull/4) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
+4. 💪 Opened PR [#4](https://github.com/borneo-digital-creative/statico/pull/4) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
+5. 🎉 Merged PR [#3](https://github.com/borneo-digital-creative/statico/pull/3) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
   <!--END_SECTION:activity-->
 
 </div>
