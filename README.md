@@ -2,7 +2,7 @@
 
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/akunbeben/akunbeben/main/assets/git_pixelated.png" width="100px" />
-</p>
+
 
 #### Hei Folks! 👋
 
@@ -15,13 +15,15 @@ I'm Benny. Casual human who trying to be cool but I can't🤣
 
 🔭 I’m currently free. Just feel free to reach me on:
 
-[<img align="left" target="_blank" alt="akunbeben | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" target="_blank" alt="akunbeben | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" target="_blank" alt="akunbeben | Google Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="center" target="_blank" alt="akunbeben | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" target="_blank" alt="akunbeben | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" target="_blank" alt="akunbeben | Google Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+
+
+</p>
 
 <br/>
 
----
 
 #### ⚡ Benny's github last activity
 
