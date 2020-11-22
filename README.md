@@ -1,7 +1,7 @@
 # Benny Rahmat &mdash; @akunbeben
 
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/akunbeben/akunbeben/main/assets/git_pixelated.png" />
+  <img align="center" src="https://raw.githubusercontent.com/akunbeben/akunbeben/main/assets/git_pixelated.png" width="200px" />
 </p>
 
 #### Hei Folks! 👋
