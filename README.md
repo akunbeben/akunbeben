@@ -24,8 +24,13 @@ I'm Benny. Casual human who trying to be cool but I can't🤣
 <!--END_SECTION:activity-->
 
 ---
-| | |
-| [![Benny's github stats][stats]](https://github.com/akunbeben) | [![Top Langs][toplang]](https://github.com/akunbeben) |
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 
 [instagram]: https://instagram.com/akunbeben
 [twitter]: https://twitter.com/akunbeben
