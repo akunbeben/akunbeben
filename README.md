@@ -25,8 +25,8 @@ I'm Benny. Casual human who trying to be cool but I can't🤣
 
 ---
 
-|---|---|
-|[![Benny's github stats][stats]](https://github.com/akunbeben)|[![Top Langs][toplang]](https://github.com/akunbeben)|
+| :--: | :--: |
+| [![Benny's github stats][stats]](https://github.com/akunbeben) | [![Top Langs][toplang]](https://github.com/akunbeben) |
 
 [instagram]: https://instagram.com/akunbeben
 [twitter]: https://twitter.com/akunbeben
