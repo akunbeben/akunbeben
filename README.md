@@ -15,6 +15,8 @@ I'm Benny. Casual human who trying to be cool but I can't🤣
 
 ---
 
+#### ⚡ Benny's github last activity
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#5](https://github.com/borneo-digital-creative/statico/pull/5) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
 2. 💪 Opened PR [#5](https://github.com/borneo-digital-creative/statico/pull/5) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
@@ -23,7 +25,9 @@ I'm Benny. Casual human who trying to be cool but I can't🤣
 5. 🎉 Merged PR [#3](https://github.com/borneo-digital-creative/statico/pull/3) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
 <!--END_SECTION:activity-->
 
+
 ---
+
 
 <p align="center">
   <a href="https://github.com/akunbeben">
