@@ -24,7 +24,7 @@ I'm Benny. Casual human who trying to be cool but I can't🤣
 <!--END_SECTION:activity-->
 
 ---
-
+| | |
 | :--: | :--: |
 | [![Benny's github stats][stats]](https://github.com/akunbeben) | [![Top Langs][toplang]](https://github.com/akunbeben) |
 
