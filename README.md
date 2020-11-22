@@ -15,12 +15,14 @@
   👯 I'm ready to be hired or collaborate.
 
   🔭 I’m currently free. Just feel free to reach me on:
+  
+  
+  [<img align="center" target="_blank" alt="akunbeben | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  [<img align="center" target="_blank" alt="akunbeben | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+  [<img align="center" target="_blank" alt="akunbeben | Google Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+
 
 </div>
-
-[<img align="center" target="_blank" alt="akunbeben | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="center" target="_blank" alt="akunbeben | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="center" target="_blank" alt="akunbeben | Google Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 
 <br/>
