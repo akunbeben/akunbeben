@@ -25,10 +25,11 @@ I'm Benny. Casual human who trying to be cool but I can't🤣
 
 ---
 
-[![Benny's github stats][stats]](https://github.com/akunbeben)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akunbeben&layout=compact&hide=css,html)](https://github.com/akunbeben)
+|---|---|
+|[![Benny's github stats][stats]](https://github.com/akunbeben)|[![Top Langs][toplang]](https://github.com/akunbeben)|
 
 [instagram]: https://instagram.com/akunbeben
 [twitter]: https://twitter.com/akunbeben
 [email]: mailto:akunbeben@gmail.com
 [stats]: https://github-readme-stats.vercel.app/api?username=akunbeben&show_icons=true&theme=gotham&cache_seconds=1800&count_private=true
+[toplang]: https://github-readme-stats.vercel.app/api/top-langs/?username=akunbeben&layout=compact&hide=css,html
