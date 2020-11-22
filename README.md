@@ -14,10 +14,6 @@ I'm Benny. Casual human who trying to be cool but I can't🤣
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akunbeben&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#5](https://github.com/borneo-digital-creative/statico/pull/5) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
 2. 💪 Opened PR [#5](https://github.com/borneo-digital-creative/statico/pull/5) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
@@ -25,6 +21,10 @@ I'm Benny. Casual human who trying to be cool but I can't🤣
 4. 💪 Opened PR [#4](https://github.com/borneo-digital-creative/statico/pull/4) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
 5. 🎉 Merged PR [#3](https://github.com/borneo-digital-creative/statico/pull/3) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
 <!--END_SECTION:activity-->
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akunbeben&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://instagram.com/akunbeben
 [twitter]: https://twitter.com/akunbeben
