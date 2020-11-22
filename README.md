@@ -24,7 +24,7 @@ I'm Benny. Casual human who trying to be cool but I can't🤣
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akunbeben&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akunbeben&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://instagram.com/akunbeben
 [twitter]: https://twitter.com/akunbeben
