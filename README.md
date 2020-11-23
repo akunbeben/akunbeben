@@ -26,11 +26,11 @@
   #### ⚡ Benny's github last activity
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/erniiier01/skripsi/pull/1) in [erniiier01/skripsi](https://github.com/erniiier01/skripsi)
-2. 🎉 Merged PR [#2](https://github.com/akunbeben/activity-box/pull/2) in [akunbeben/activity-box](https://github.com/akunbeben/activity-box)
-3. 🎉 Merged PR [#1](https://github.com/akunbeben/activity-box/pull/1) in [akunbeben/activity-box](https://github.com/akunbeben/activity-box)
-4. 🎉 Merged PR [#5](https://github.com/borneo-digital-creative/statico/pull/5) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
-5. 💪 Opened PR [#5](https://github.com/borneo-digital-creative/statico/pull/5) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
+1. 🎉 Merged PR [#6](https://github.com/borneo-digital-creative/statico/pull/6) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
+2. 💪 Opened PR [#6](https://github.com/borneo-digital-creative/statico/pull/6) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
+3. 💪 Opened PR [#1](https://github.com/erniiier01/skripsi/pull/1) in [erniiier01/skripsi](https://github.com/erniiier01/skripsi)
+4. 🎉 Merged PR [#2](https://github.com/akunbeben/activity-box/pull/2) in [akunbeben/activity-box](https://github.com/akunbeben/activity-box)
+5. 🎉 Merged PR [#1](https://github.com/akunbeben/activity-box/pull/1) in [akunbeben/activity-box](https://github.com/akunbeben/activity-box)
   <!--END_SECTION:activity-->
 
 </div>
