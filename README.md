@@ -26,11 +26,11 @@
   #### ⚡ Benny's github last activity
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/borneo-digital-creative/statico/pull/14) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
-2. 🎉 Merged PR [#13](https://github.com/borneo-digital-creative/statico/pull/13) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
-3. 💪 Opened PR [#13](https://github.com/borneo-digital-creative/statico/pull/13) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
-4. ❌ Closed PR [#12](https://github.com/borneo-digital-creative/statico/pull/12) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
-5. 💪 Opened PR [#12](https://github.com/borneo-digital-creative/statico/pull/12) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
+1. 💪 Opened PR [#18](https://github.com/borneo-digital-creative/statico/pull/18) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
+2. 💪 Opened PR [#14](https://github.com/borneo-digital-creative/statico/pull/14) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
+3. 🎉 Merged PR [#13](https://github.com/borneo-digital-creative/statico/pull/13) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
+4. 💪 Opened PR [#13](https://github.com/borneo-digital-creative/statico/pull/13) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
+5. ❌ Closed PR [#12](https://github.com/borneo-digital-creative/statico/pull/12) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
   <!--END_SECTION:activity-->
 
 </div>
