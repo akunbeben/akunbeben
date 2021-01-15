@@ -26,10 +26,10 @@
   #### ⚡ Benny's github last activity
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/erniiier01/skripsi/pull/1) in [erniiier01/skripsi](https://github.com/erniiier01/skripsi)
-2. 🎉 Merged PR [#2](https://github.com/akunbeben/activity-box/pull/2) in [akunbeben/activity-box](https://github.com/akunbeben/activity-box)
-3. 🎉 Merged PR [#1](https://github.com/akunbeben/activity-box/pull/1) in [akunbeben/activity-box](https://github.com/akunbeben/activity-box)
-4. 💪 Opened PR [#32](https://github.com/borneo-digital-creative/statico/pull/32) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
+1. 🗣 Commented on [#85](https://github.com/stisla/stisla/issues/85) in [stisla/stisla](https://github.com/stisla/stisla)
+2. 💪 Opened PR [#1](https://github.com/erniiier01/skripsi/pull/1) in [erniiier01/skripsi](https://github.com/erniiier01/skripsi)
+3. 🎉 Merged PR [#2](https://github.com/akunbeben/activity-box/pull/2) in [akunbeben/activity-box](https://github.com/akunbeben/activity-box)
+4. 🎉 Merged PR [#1](https://github.com/akunbeben/activity-box/pull/1) in [akunbeben/activity-box](https://github.com/akunbeben/activity-box)
 5. 💪 Opened PR [#31](https://github.com/borneo-digital-creative/statico/pull/31) in [borneo-digital-creative/statico](https://github.com/borneo-digital-creative/statico)
   <!--END_SECTION:activity-->
 
